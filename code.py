@@ -1,4 +1,4 @@
-def foo(time):
+def foo(times):
     return foo * times
 
 def bar(times):
