@@ -1,3 +1,3 @@
 # project
 
-This project contains both code and settingz.
+This project contains both code and settings.
